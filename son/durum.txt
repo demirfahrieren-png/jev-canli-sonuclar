@@ -1,0 +1,21 @@
+Klasör             : /var/lib/jev/canli
+Başlatma           : 2026-11-13T19:20:43+00:00
+Son işlenen bar    : 2026-11-13 19:00:00+00:00
+Acil durdurma      : kapalı
+Eski veri yüzünden işlemsiz geçen bar: 0
+Açık pozisyonlar   : yok
+Nakit              : 500.00 USDT
+
+Strateji           : sma-kesisim(BTCUSDT,24/96,oynaklık-hedefi %1.00/gün, 72 bar) + sma-kesisim(ETHUSDT,24/96,oynaklık-hedefi %1.00/gün, 72 bar)
+Dönem              : 2026-11-09 19:00 → 2026-11-13 19:00 (97 bar)
+Ayarlar            : taker %0.100 / maker %0.100, kayma 5 bps, yürütme next_bar, işlem kuralları açık, risk açık, likidite sınırı 1.00%
+Başlangıç / bitiş  : 500.00 USDT → 500.00 USDT
+Toplam getiri      : 0.00%
+En büyük düşüş     : 0.00%
+İşlem (al/sat)     : 0 (0/0)
+Kazanan satış oranı: —
+Gerçekleşen K/Z    : 0.00 USDT
+Açık pozisyon K/Z  : 0.00 USDT
+Ödenen komisyon    : 0.00 USDT (başlangıcın 0.00%)
+Reddedilen öneri   : 0
+Not: geçmiş sonuç gelecekteki getiriyi göstermez.

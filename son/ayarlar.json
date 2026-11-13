@@ -1,0 +1,24 @@
+{
+  "symbols": [
+    "BTCUSDT",
+    "ETHUSDT"
+  ],
+  "interval": "1h",
+  "strategy": "sma",
+  "fast": 24,
+  "slow": 96,
+  "fraction": "0.95",
+  "vol_target": "0.01",
+  "vol_window": 72,
+  "stop_loss_pct": null,
+  "take_profit_pct": null,
+  "cash": "500",
+  "taker_rate": "0.001",
+  "slippage_bps": "5",
+  "max_volume_share": "0.01",
+  "rules": "/opt/jev/app/data/exchange_info_sample.json",
+  "max_trade_notional": "50",
+  "max_position_notional": "150",
+  "min_cash_reserve": "200",
+  "max_lag_bars": 2
+}

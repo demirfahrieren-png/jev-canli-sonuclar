@@ -1,0 +1,5 @@
+yayin_zamani_utc: 2026-11-13T19:48:59Z
+kod_surumu: 34e921d
+zamanlayici: active
+durdur_dosyasi: yok
+disk_kullanimi: 15%

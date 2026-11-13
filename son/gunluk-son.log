@@ -1,0 +1,2 @@
+2026-11-13T19:20:43+00:00 başlatıldı: sma-kesisim(BTCUSDT,24/96,oynaklık-hedefi %1.00/gün, 72 bar) + sma-kesisim(ETHUSDT,24/96,oynaklık-hedefi %1.00/gün, 72 bar); ısınma 97 bar; son bar 2026-11-13 19:00:00+00:00
+2026-11-13T19:21:20+00:00 çalıştı: {"durduruldu": false, "islenen": 0, "eski_atlanan": 0, "yeni_islem": 0, "yeni_red": 0, "son_bar": "2026-11-13T19:00:00+00:00", "varlik": "500.00"}
