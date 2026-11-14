@@ -1,5 +1,5 @@
-yayin_zamani_utc: 2026-11-13T19:48:59Z
-kod_surumu: 34e921d
+yayin_zamani_utc: 2026-11-14T05:20:21Z
+kod_surumu: 23eec16
 zamanlayici: active
 durdur_dosyasi: yok
 disk_kullanimi: 15%
