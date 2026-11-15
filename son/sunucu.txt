@@ -1,4 +1,4 @@
-yayin_zamani_utc: 2026-11-14T05:20:21Z
+yayin_zamani_utc: 2026-11-15T05:20:28Z
 kod_surumu: 23eec16
 zamanlayici: active
 durdur_dosyasi: yok
