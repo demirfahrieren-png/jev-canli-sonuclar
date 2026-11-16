@@ -1,0 +1,5 @@
+Ayar: kapalı; ufuk 24 bar, her 4 barda bir, günde en çok 24 çağrı
+Jev gölge modu (işlemleri ETKİLEMEZ)
+Soru: ufuk sonundaki kapanış, tahmin anındaki kapanıştan yüksek mi? 'olasilik' = Jev'in 'evet' ihtimali.
+Kayıtlı tahmin: 0  sonuçlanan: 0  bekleyen: 0
+Henüz sonuçlanan tahmin yok.

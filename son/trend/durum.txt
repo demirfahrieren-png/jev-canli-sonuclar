@@ -1,0 +1,22 @@
+Klasör             : /var/lib/jev/trend
+Başlatma           : 2026-11-16T01:24:27+00:00
+Son işlenen bar    : 2026-11-16 00:00:00+00:00
+Acil durdurma      : kapalı
+Eski veri yüzünden işlemsiz geçen bar: 0
+Açık pozisyonlar   : yok
+Nakit              : 500.00 USDT
+Trend ağırlıkları  : BTCUSDT 0/4, ETHUSDT 0/4 (4/4 = coin için ayrılan payın tamamı yatırımda)
+
+Strateji           : trend-topluluk(BTCUSDT,pay %30.0) + trend-topluluk(ETHUSDT,pay %30.0)
+Dönem              : 2026-08-09 00:00 → 2026-11-16 00:00 (100 bar)
+Ayarlar            : taker %0.100 / maker %0.100, kayma 5 bps, yürütme next_bar, işlem kuralları açık, risk açık, likidite sınırı 1.00%
+Başlangıç / bitiş  : 500.00 USDT → 500.00 USDT
+Toplam getiri      : 0.00%
+En büyük düşüş     : 0.00%
+İşlem (al/sat)     : 0 (0/0)
+Kazanan satış oranı: —
+Gerçekleşen K/Z    : 0.00 USDT
+Açık pozisyon K/Z  : 0.00 USDT
+Ödenen komisyon    : 0.00 USDT (başlangıcın 0.00%)
+Reddedilen öneri   : 0
+Not: geçmiş sonuç gelecekteki getiriyi göstermez.
