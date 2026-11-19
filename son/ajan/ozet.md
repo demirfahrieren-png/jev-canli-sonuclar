@@ -1,14 +1,14 @@
 # Ajan kurulu özeti (gölge mod — emir yok)
 
-Güncelleme: 2026-11-18T00:37+00:00 · Toplam karar: 6 · Ölçüm: 5 gün sonraki kapanış, eşik ±%1
+Güncelleme: 2026-11-19T00:36+00:00 · Toplam karar: 8 · Ölçüm: 5 gün sonraki kapanış, eşik ±%1
 
 ## İsabet
 
 | Kırılım | Karar | İsabet |
 |---|---|---|
-| BTCUSDT | 3 | — |
-| ETHUSDT | 3 | — |
-| SELL | 6 | — |
+| BTCUSDT | 4 | — |
+| ETHUSDT | 4 | — |
+| SELL | 8 | — |
 
 En az 20 ölçülmüş karar olmadan isabet oranına güvenmeyin.
 
@@ -16,6 +16,8 @@ En az 20 ölçülmüş karar olmadan isabet oranına güvenmeyin.
 
 | Gün | Sembol | Not | Kayıt | Fiyat | 5g getiri | Haklı mı |
 |---|---|---|---|---|---|---|
+| 2026-11-18 | BTCUSDT | Underweight | SELL | 63068.22 | bekliyor | — |
+| 2026-11-18 | ETHUSDT | Underweight | SELL | 1777.19 | bekliyor | — |
 | 2026-11-17 | BTCUSDT | Underweight | SELL | 64947.35 | bekliyor | — |
 | 2026-11-17 | ETHUSDT | Underweight | SELL | 1824.88 | bekliyor | — |
 | 2026-11-16 | BTCUSDT | Underweight | SELL | 64882.87 | bekliyor | — |
