@@ -1,4 +1,4 @@
-yayin_zamani_utc: 2026-11-20T05:20:28Z
+yayin_zamani_utc: 2026-11-21T05:20:28Z
 kod_surumu: 2860edb
 zamanlayici: active
 durdur_dosyasi: yok
