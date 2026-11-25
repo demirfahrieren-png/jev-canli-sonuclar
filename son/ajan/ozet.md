@@ -1,14 +1,14 @@
 # Ajan kurulu özeti (gölge mod — emir yok)
 
-Güncelleme: 2026-11-24T00:37+00:00 · Toplam karar: 18 · Ölçüm: 5 gün sonraki kapanış, eşik ±%1
+Güncelleme: 2026-11-25T00:36+00:00 · Toplam karar: 20 · Ölçüm: 5 gün sonraki kapanış, eşik ±%1
 
 ## İsabet
 
 | Kırılım | Karar | İsabet |
 |---|---|---|
-| BTCUSDT | 9 | %100 (4/4) |
-| ETHUSDT | 9 | %100 (4/4) |
-| SELL | 18 | %100 (8/8) |
+| BTCUSDT | 10 | %100 (5/5) |
+| ETHUSDT | 10 | %100 (5/5) |
+| SELL | 20 | %100 (10/10) |
 
 En az 20 ölçülmüş karar olmadan isabet oranına güvenmeyin.
 
@@ -16,6 +16,8 @@ En az 20 ölçülmüş karar olmadan isabet oranına güvenmeyin.
 
 | Gün | Sembol | Not | Kayıt | Fiyat | 5g getiri | Haklı mı |
 |---|---|---|---|---|---|---|
+| 2026-11-24 | BTCUSDT | Underweight | SELL | 59832.00 | bekliyor | — |
+| 2026-11-24 | ETHUSDT | Underweight | SELL | 1680.11 | bekliyor | — |
 | 2026-11-23 | BTCUSDT | Underweight | SELL | 61270.93 | bekliyor | — |
 | 2026-11-23 | ETHUSDT | Underweight | SELL | 1710.65 | bekliyor | — |
 | 2026-11-22 | BTCUSDT | Underweight | SELL | 61271.08 | bekliyor | — |
@@ -24,8 +26,8 @@ En az 20 ölçülmüş karar olmadan isabet oranına güvenmeyin.
 | 2026-11-21 | ETHUSDT | Underweight | SELL | 1685.63 | bekliyor | — |
 | 2026-11-20 | BTCUSDT | Underweight | SELL | 58951.51 | bekliyor | — |
 | 2026-11-20 | ETHUSDT | Underweight | SELL | 1623.09 | bekliyor | — |
-| 2026-11-19 | BTCUSDT | Underweight | SELL | 61986.73 | bekliyor | — |
-| 2026-11-19 | ETHUSDT | Underweight | SELL | 1757.32 | bekliyor | — |
+| 2026-11-19 | BTCUSDT | Underweight | SELL | 61986.73 | -3.5% | evet |
+| 2026-11-19 | ETHUSDT | Underweight | SELL | 1757.32 | -4.4% | evet |
 | 2026-11-18 | BTCUSDT | Underweight | SELL | 63068.22 | -2.8% | evet |
 | 2026-11-18 | ETHUSDT | Underweight | SELL | 1777.19 | -3.7% | evet |
 | 2026-11-17 | BTCUSDT | Underweight | SELL | 64947.35 | -5.7% | evet |

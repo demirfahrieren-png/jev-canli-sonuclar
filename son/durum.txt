@@ -1,27 +1,27 @@
 Klasör             : /var/lib/jev/canli
 Başlatma           : 2026-11-13T19:20:43+00:00
-Son işlenen bar    : 2026-11-24 05:00:00+00:00
+Son işlenen bar    : 2026-11-25 05:00:00+00:00
 Acil durdurma      : kapalı
 Eski veri yüzünden işlemsiz geçen bar: 0
-Açık pozisyonlar   : ETHUSDT 0.02890000, BTCUSDT 0.00080000
-Nakit              : 400.59 USDT
+Açık pozisyonlar   : yok
+Nakit              : 497.15 USDT
 
 Strateji           : sma-kesisim(BTCUSDT,24/96,oynaklık-hedefi %1.00/gün, 72 bar) + sma-kesisim(ETHUSDT,24/96,oynaklık-hedefi %1.00/gün, 72 bar)
-Dönem              : 2026-11-09 19:00 → 2026-11-24 05:00 (347 bar)
+Dönem              : 2026-11-09 19:00 → 2026-11-25 05:00 (371 bar)
 Ayarlar            : taker %0.100 / maker %0.100, kayma 5 bps, yürütme next_bar, işlem kuralları açık, risk açık, likidite sınırı 1.00%
-Başlangıç / bitiş  : 500.00 USDT → 498.02 USDT
-Toplam getiri      : -0.40%
-En büyük düşüş     : 1.32%
-İşlem (al/sat)     : 2 (2/0) — piyasa 2
-Kazanan satış oranı: —
-Gerçekleşen K/Z    : 0.00 USDT
-Açık pozisyon K/Z  : -1.98 USDT (BTCUSDT, ETHUSDT açık)
-Ödenen komisyon    : 0.10 USDT (başlangıcın 0.02%)
+Başlangıç / bitiş  : 500.00 USDT → 497.15 USDT
+Toplam getiri      : -0.57%
+En büyük düşüş     : 1.52%
+İşlem (al/sat)     : 4 (2/2) — piyasa 4
+Kazanan satış oranı: 0.00%
+Gerçekleşen K/Z    : -2.85 USDT
+Açık pozisyon K/Z  : 0.00 USDT
+Ödenen komisyon    : 0.20 USDT (başlangıcın 0.04%)
 Reddedilen öneri   : 0
 Not: geçmiş sonuç gelecekteki getiriyi göstermez.
 
 Karar isabeti (24 bar sonrası, eşik %0.30)
-Ölçülen karar      : 1 (veri bittiği için ölçülemeyen 1)
+Ölçülen karar      : 2 (veri bittiği için ölçülemeyen 2)
 Genel isabet       : %0.0
-Karar türüne göre  : AL 1 karar / %0.0
+Karar türüne göre  : AL 2 karar / %0.0
 Güven puanı olan karar yok; kalibrasyon tablosu çıkarılamadı.
